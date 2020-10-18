@@ -1,0 +1,7 @@
+git init   -- initialize git
+ls -a  --check hiden files
+git status  --check files that in staging stauts
+git add @filename  --add file to git repository
+git add .  -- add every file in the directory to git
+git commit -m @filename --add file to repository and track it
+git log  -- to see commited file number and auther and date
